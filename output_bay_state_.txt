@@ -1,8 +1,0 @@
-Error processing https://thetech.com/issues/62/38/pdf: Invalid URL '/pdfs/original/missing.png': No scheme supplied. Perhaps you meant https:///pdfs/original/missing.png?
-Error processing https://thetech.com/issues/62/42/pdf: Invalid URL '/pdfs/original/missing.png': No scheme supplied. Perhaps you meant https:///pdfs/original/missing.png?
-Error processing https://thetech.com/issues/62/43/pdf: Invalid URL '/pdfs/original/missing.png': No scheme supplied. Perhaps you meant https:///pdfs/original/missing.png?
-Error processing https://thetech.com/issues/63/47/pdf: Invalid URL '/pdfs/original/missing.png': No scheme supplied. Perhaps you meant https:///pdfs/original/missing.png?
-Error processing https://thetech.com/issues/67/31/pdf: Invalid URL '/pdfs/original/missing.png': No scheme supplied. Perhaps you meant https:///pdfs/original/missing.png?
-Error processing https://thetech.com/issues/68/31/pdf: Invalid URL '/pdfs/original/missing.png': No scheme supplied. Perhaps you meant https:///pdfs/original/missing.png?
-Error processing https://thetech.com/issues/68/43/pdf: Invalid URL '/pdfs/original/missing.png': No scheme supplied. Perhaps you meant https:///pdfs/original/missing.png?
-Error processing https://thetech.com/issues/79/50/pdf: Invalid URL '/pdfs/original/missing.png': No scheme supplied. Perhaps you meant https:///pdfs/original/missing.png?
